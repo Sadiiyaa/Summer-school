@@ -103,29 +103,7 @@ Practical introduction to drone technology covering:
 
 ---
 
-# Repository Structure
 
-```
-IoT-and-Drone-Projects/
-│
-├── Arduino Codes/
-│
-├── Python Programs/
-│
-├── Radar Viewer/
-│
-├── Smart Lecture Hall/
-│
-├── Drone Notes/
-│
-├── Documentation/
-│
-├── Images/
-│
-└── README.md
-```
-
----
 
 # Learning Outcomes
 
